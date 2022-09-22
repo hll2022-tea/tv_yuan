@@ -3,7 +3,7 @@
 
 {"spider":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/bmo2ge45.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvemhhbmdob25nMTk4My9UVkJPWFpZL21haW4vVFYvVFYudHh0"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzExMS42Ny4xOTYuMTgxL210di96aGliby50eHQ="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
 
