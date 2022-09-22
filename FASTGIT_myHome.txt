@@ -32,7 +32,25 @@ lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&
 {"key":"csp_QQ","name":"企鹅〔SP〕","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果TV〔SP〕","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{
+            "key" : "360_spider",
+            "name" : "🥎360影视",
+            "api" : "csp_SP360",
+            "type" : 3,
+            "filterable" : 1,
+            "quickSearch" : 1,
+            "searchable" : 1,
+            "ext" : ""
+        },
+            {
+            "key" : "csp_QQ",
+            "name" : "🐧腾讯（官）",
+            "type" : 3,
+            "api" : "csp_QQ",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1
+        },
 {"key": "csp_Dy555","name":"555影院〔SP〕","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_SP293","name":"293视频〔SP〕","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Yj1211","name": "直播合集〔SP〕","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -222,6 +240,144 @@ lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&
 
 
 "parses":[
+{
+            "name" : "解析聚合",
+            "type" : 3,
+            "url" : "Demo"
+        },
+            {
+            "name" : "Json并发",
+            "type" : 2,
+            "url" : "Parallel"
+        },
+            {
+            "name" : "Json轮询",
+            "type" : 2,
+            "url" : "Sequence"
+        },
+            {
+            "name" : "解析",
+            "type" : 1,
+            "url" : "http://newjiexi.gotka.top/keyu3.php?url=",
+            "ext" : {
+                "flag" : [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"],
+                "header" : {
+                    "User-Agent" : "okhttp/4.1.0"
+                }
+            }
+        },
+          {
+          "name": "GGTV自用",
+          "type": 1,
+          "url": "https://play.fuqizhishi.com/jx/API.php?appkey\u003dxiaobai666\u0026url\u003d"
+       },
+            {
+            "name" : "解析1",
+            "type" : 0,
+            "url" : "https://www.ckplayer.vip/jiexi/?url="
+        },
+            {
+            "name" : "解析2",
+            "type" : 0,
+            "url" : "https://www.nxflv.com/?url="
+        },
+            {
+            "name" : "解析3",
+            "type" : 0,
+            "url" : "https://svip.bljiex.cc/?v="
+        },
+            {
+            "name" : "解析4",
+            "type" : 0,
+            "url" : "http://www.ckmov.vip/api.php?url="
+        },
+            {
+            "name" : "解析5",
+            "type" : 0,
+            "url" : "https://jx.4kdv.com/?url="
+        },
+            {
+            "name" : "解析6",
+            "type" : 0,
+            "url" : "https://jx.m3u8.tv/jiexi/?url="
+        },
+            {
+            "name" : "解析7",
+            "type" : 0,
+            "url" : "https://www.playm3u8.cn/jiexi.php?url="
+        },
+            {
+            "name" : "解析8",
+            "type" : 1,
+            "url" : "https://okjx.cc/?url="
+        },
+            {
+            "name" : "解析9",
+            "type" : 1,
+            "url" : "https://www.8090g.cn/?url="
+        },
+            {
+            "name" : "解析10",
+            "type" : 1,
+            "url" : "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="
+        },
+            {
+            "name" : "解析11",
+            "type" : 1,
+            "url" : "https://jx.xmflv.com/?url="
+        },
+            {
+            "name" : "解析12",
+            "type" : 0,
+            "url" : "https://jx.bozrc.com:4433/player/?url="
+        },
+            {
+            "name" : "解析13",
+            "type" : 0,
+            "url" : "https://www.yemu.xyz/?url="
+        },
+            {
+            "name" : "解析14",
+            "type" : 0,
+            "url" : "https://parse.123mingren.com/?url="
+        },
+            {
+            "name" : "解析15",
+            "type" : 0,
+            "url" : "http://api.wpsseo.cn/?v="
+        },
+            {
+            "name" : "解析16",
+            "type" : 0,
+            "url" : "https://go.yh0523.cn/y.cy?url="
+        },
+            {
+            "name" : "解析17",
+            "type" : 0,
+            "url" : "https://www.pangujiexi.cc/jiexi.php?url="
+        },
+            {
+            "name" : "解析18",
+            "type" : 0,
+            "url" : "https://jx.iztyy.com/svip/?url="
+        }
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
