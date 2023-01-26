@@ -4911,6 +4911,9 @@ MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 甄子丹,http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
 周润发,http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
 轮播直播_886688,#genre#
-轮播直播1,http://wmsp.cc/video.php
-轮播直播2,http://wmsp.cc/video.php
-轮播直播3,http://wmsp.cc/video.php
+DRW轮播1,http://epg.112114.xyz/douyu/8901218 
+DRW轮播2,http://epg.112114.xyz/douyu/8759139 
+DRW轮播3,http://epg.112114.xyz/douyu/7971641
+KRW轮播1,http://wmsp.cc/video.php
+KRW轮播2,http://wmsp.cc/video.php
+KRW轮播3,http://wmsp.cc/video.php
