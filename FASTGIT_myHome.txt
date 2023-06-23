@@ -3,7 +3,7 @@
 
 {
  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;09A472702BEFAECF58154F50533395FD", 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="]}]}],
+"lives":[{"name":"live","type":0,"url":"http://hz752.love:63/txt/tvbs.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}], 
 "warningText": "个人专享接口",
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
