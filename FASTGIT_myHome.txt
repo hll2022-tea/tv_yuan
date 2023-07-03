@@ -3,7 +3,7 @@
 
 {
  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;09A472702BEFAECF58154F50533395FD", 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vaGxsMjAyMi10ZWEvdHZfeXVhbi9ibG9iL21haW4vdHZib3hfbGl2ZV9yZWxlYXNl"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vaGxsMjAyMi10ZWEvdHZfeXVhbi9ibG9iL21haW4vdHZib3hfbGl2ZV9yZWxlYXNl"]}]},{"group": "redirect","channels": [{"name": "redirect2","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3L1lFNU1uMDVD"]}]}],
 "warningText": "个人专享接口",
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
