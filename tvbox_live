@@ -1,4 +1,4 @@
-央视频道[V4],#genre#
+央视频道,#genre#
 CCTV-1,http://cdn.u55u.cn/migu.php?id=cctv1$咪咕代理 接口
 CCTV-2,http://cdn.u55u.cn/migu.php?id=cctv2$咪咕代理 接口
 CCTV-3,http://cdn.u55u.cn/migu.php?id=cctv3$咪咕代理 接口
@@ -132,7 +132,7 @@ CCTV-13,http://router.bingyu.in:40000/rtp/239.253.252.14:8000$山东淄博 联�
 CCTV-14,http://router.bingyu.in:40000/rtp/239.253.252.236:8000$山东淄博 联通
 
 
-卫视频道[V4],#genre#
+卫视频道,#genre#
 吉林卫视,http://cdn.u55u.cn/migu.php?id=jlws$咪咕代理 接口
 陕西卫视,http://cdn.u55u.cn/migu.php?id=sxws$咪咕代理 接口
 海峡卫视,http://cdn.u55u.cn/migu.php?id=hxws$咪咕代理 接口
