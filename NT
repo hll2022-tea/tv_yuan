@@ -1,66 +1,152 @@
-$c_start 央卫频道$c_end
-CCTV-1高清,http://ddns.cyruslee.top:8888/udp/239.77.1.17:5146
-CCTV-1高清,http://ddns.cyruslee.top:8888/udp/239.77.1.144:5146
-CCTV-1高清(CCTV -1综合高清),http://ddns.cyruslee.top:8888/udp/239.77.0.86:5146
-CCTV-1超清,http://ddns.cyruslee.top:8888/udp/239.77.0.129:5146
-CCTV-2高清,http://ddns.cyruslee.top:8888/udp/239.77.1.158:5146
-CCTV-2高清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.253.43.17:5146
-CCTV-2高清测试(CCTV -2财经高清),http://ddns.cyruslee.top:8888/udp/239.77.0.137:5146
-CCTV-3高清,http://ddns.cyruslee.top:8888/udp/239.77.0.169:5146
-CCTV-3超清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.0.175:5146
-CCTV-4高清,http://ddns.cyruslee.top:8888/udp/239.77.1.163:5146
-CCTV-4高清,http://ddns.cyruslee.top:8888/udp/239.77.1.166:5146
-CCTV-4高清,http://ddns.cyruslee.top:8888/udp/239.77.0.78:5146
-CCTV-5高清,http://ddns.cyruslee.top:8888/udp/239.77.0.170:5146
-CCTV-5超清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.0.177:5146
-CCTV-5+高清,http://ddns.cyruslee.top:8888/udp/239.77.0.87:5146
-CCTV-5+高清,http://ddns.cyruslee.top:8888/udp/239.77.1.31:5146
-CCTV-5+高清,http://ddns.cyruslee.top:8888/udp/239.77.1.147:5146
-CCTV-6高清,http://ddns.cyruslee.top:8888/udp/239.77.0.171:5146
-CCTV-6超清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.0.178:5146
-CCTV-7高清,http://ddns.cyruslee.top:8888/udp/239.77.1.159:5146
-CCTV-7高清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.1.167:5146
-CCTV-7高清测试(CCTV -7军事农业高清),http://ddns.cyruslee.top:8888/udp/239.77.0.138:5146
-CCTV-8高清,http://ddns.cyruslee.top:8888/udp/239.77.0.172:5146
-CCTV-8超清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.0.181:5146
-CCTV-9高清,http://ddns.cyruslee.top:8888/udp/239.77.1.160:5146
-CCTV-9高清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.1.168:5146
-CCTV-9高清测试,http://ddns.cyruslee.top:8888/udp/239.77.0.135:5146
-CCTV-10高清,http://ddns.cyruslee.top:8888/udp/239.77.1.113:5146
-CCTV-10高清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.1.169:5146
-CCTV-10高清测试(CCTV-10科教高清),http://ddns.cyruslee.top:8888/udp/239.77.0.134:5146
-CCTV-11高清,http://ddns.cyruslee.top:8888/udp/239.77.1.238:5146
-CCTV-12高清,http://ddns.cyruslee.top:8888/udp/239.77.1.109:5146
-CCTV-12高清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.1.170:5146
-CCTV-12高清测试,http://ddns.cyruslee.top:8888/udp/239.77.0.136:5146
-CCTV-13高清,http://ddns.cyruslee.top:8888/udp/239.77.0.188:5146
-CCTV-13高清,http://ddns.cyruslee.top:8888/udp/239.253.43.196:5146
-CCTV-14高清,http://ddns.cyruslee.top:8888/udp/239.77.1.161:5146
-CCTV-14高清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.1.171:5146
-CCTV-14高清测试,http://ddns.cyruslee.top:8888/udp/239.77.0.133:5146
-CCTV-15高清,http://ddns.cyruslee.top:8888/udp/239.77.1.239:5146
-CCTV-16高清,http://ddns.cyruslee.top:8888/udp/239.77.0.165:5146
-CCTV-16高清,http://ddns.cyruslee.top:8888/udp/239.77.1.76:5146
-CCTV-16 4K,http://ddns.cyruslee.top:8888/udp/239.77.1.98:5146
-CCTV-17高清,http://ddns.cyruslee.top:8888/udp/239.77.1.121:5146
-CCTV-17农业高清,http://ddns.cyruslee.top:8888/udp/239.77.0.198:5146
-CCTV-4K 4K,http://ddns.cyruslee.top:8888/udp/239.77.0.194:5146
-CCTV-4K 4K50p,http://ddns.cyruslee.top:8888/udp/239.77.0.174:5146
-CGTN英语高清,http://ddns.cyruslee.top:8888/udp/239.77.0.199:5146
-CGTN西班牙语高清,http://ddns.cyruslee.top:8888/udp/239.77.0.221:5146
-CGTN法语高清,http://ddns.cyruslee.top:8888/udp/239.77.0.228:5146
-CGTN阿拉伯语高清,http://ddns.cyruslee.top:8888/udp/239.253.43.200:5146
-CGTN俄语高清,http://ddns.cyruslee.top:8888/udp/239.253.43.201:5146
-湖南卫视高清,http://ddns.cyruslee.top:8888/udp/239.77.1.5:5146
-湖南卫视高清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.1.129:5146
-湖南卫视高清,http://ddns.cyruslee.top:8888/udp/239.77.0.88:5146
-湖南卫视超清,http://ddns.cyruslee.top:8888/udp/239.77.0.127:5146
-浙江卫视高清,http://ddns.cyruslee.top:8888/udp/239.77.1.33:5146
-浙江卫视高清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.1.150:5146
-浙江卫视高清,http://ddns.cyruslee.top:8888/udp/239.77.0.89:5146
-浙江卫视超清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.0.125:5146
-江苏卫视高清,http://ddns.cyruslee.top:8888/udp/239.77.1.18:5146
-江苏卫视高清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.1.149:5146
+$c_start 央视高清$c_end
+CCTV-01综合,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv1
+CCTV-01综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-01综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
+CCTV-02财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-02财经,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv2
+CCTV-02财经,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
+CCTV-03综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-03综艺,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv3
+CCTV-03综艺,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
+CCTV-04中文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-04中文,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv4
+CCTV-04中文,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
+CCTV-4K高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-05体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-05体育,http://zy.otioi.cn/live/cqyx.php?token=k1u1iVa8&id=cctv5
+CCTV-05体育,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
+CCTV+5+体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV+5+体育,http://zy.otioi.cn/live/cqyx.php?token=k1u1iVa8&id=cctv5p
+CCTV+5+体育,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
+CCTV-06电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-06电影,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv6
+CCTV-06电影,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
+CCTV-07国防,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-07国防,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv7
+CCTV-07国防,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
+CCTV-08电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-08电视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv8
+CCTV-08电视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
+CCTV-09纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-09纪录,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv9
+CCTV-09纪录,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
+CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-10科教,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv10
+CCTV-10科教,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
+CCTV-11戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-11戏曲,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv11
+CCTV-11戏曲,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
+CCTV-12社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-12社会,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv12
+CCTV-12社会,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
+CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-13新闻,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv13
+CCTV-13新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
+CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-14少儿,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv14
+CCTV-14少儿,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
+CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-15音乐,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv15
+CCTV-15音乐,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
+CCTV-16奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225700/index.m3u8
+CCTV-16奥林,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv16
+CCTV-16奥林,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8
+CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV-17农业,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cctv17
+CCTV-17农业,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8
+CCTV兵器科技,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=bqkj
+CCTV第一剧场,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=dyjc
+CCTV怀旧剧场,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=hjjc
+CCTV风云剧场,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=fyjc
+CCTV风云音乐,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=fyyy
+CCTV风云足球,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=fyzq
+CCTV央视文化精品,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=whjp
+CCTV女性时尚,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=nxss
+CCTV高尔夫网球,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=gefwq
+CCTV央视台球,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=ystq
+CCTV央广购物,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=yggw
+CCTV中视购物,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=zsgw
+CCTV发现之旅,http://dp.sxtv.top:88/2b/migu.php?id=fxzl
+CCTV老故事,http://dp.sxtv.top:88/2b/migu.php?id=lgs
+CCTV中学生,http://dp.sxtv.top:88/2b/migu.php?id=zxs
+CGTN,http://dp.sxtv.top:88/2b/migu.php?id=cgtn
+CGTN纪录,http://dp.sxtv.top:88/2b/migu.php?id=cgtnjl
+CCTV西班牙语,http://dp.sxtv.top:88/2b/migu.php?id=cgtne
+CCTV法语,http://dp.sxtv.top:88/2b/migu.php?id=cgtnf
+CCTV阿拉伯语,http://dp.sxtv.top:88/2b/migu.php?id=cgtna
+CCTV俄语,http://dp.sxtv.top:88/2b/migu.php?id=cgtnr
+种养新影-中学生,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=zxs
+种养新影-发现之旅,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=fxzl
+种养新影-老故事,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=lgs
+书画,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=sh
+中国天气,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=zgtq
+CGTN,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cgtn
+$c_start 卫视高清$c_end
+北京卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=bjws
+东方卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=dfws
+天津卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=tjws
+重庆卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=cqws
+黑龙江卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=hljws
+吉林卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=jlws
+辽宁卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=lnws
+内蒙古卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=nmws
+宁夏卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=nxws
+青海卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=qhws
+河北卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=hbws
+山西卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=sxiws
+安徽卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=ahws
+河南卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=hnws
+湖北卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=hubws
+湖南卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=hunws
+江西卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=jxws
+江苏卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=jsws
+浙江卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=zjws
+东南卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=dnws
+广东卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=gdws
+深圳卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=szws
+广西卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=gxws
+云南卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=ynws
+贵州卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=gzws
+四川卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=scws
+新疆卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=xjws
+兵团卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=btws
+西藏卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=xzws
+海南卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=hinws
+三沙卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=ssws
+山东卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=sdws
+陕西卫视,http://ww.hanliu8.cn:8864/Chinaxgj.php?id=sxws
+安徽卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8
+北京卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8
+兵团卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/btws_4000.m3u8
+重庆卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8
+东方卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8
+东南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
+甘肃卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gsws_4000.m3u8
+广东卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8
+广西卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gxws_4000.m3u8
+贵州卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8
+海南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnws_4000.m3u8
+河南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnws35_4000.m3u8
+黑龙江卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8
+湖北卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8
+湖南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8
+吉林卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8
+江苏卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8
+江西卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8
+康巴卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/kbwsH264_2000.m3u8
+辽宁卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8
+内蒙古卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/nmgws_4000.m3u8
+山东教育卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/sdjy_4000.m3u8
+山东卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8
+山西卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/sxws42_4000.m3u8
+陕西卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/sxws_4000.m3u8
+深圳卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/szwsH265_4000.m3u8
+四川卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/scwsH265_4000.m3u8
+天津卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8
+西藏卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8
+云南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ynws_4000.m3u8
+浙江卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8
+甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8#https://hls.gstv.com.cn/49048r/6e1sy2.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
 江苏卫视高清,http://ddns.cyruslee.top:8888/udp/239.77.0.90:5146
 江苏卫视超清 (CAVS),http://ddns.cyruslee.top:8888/udp/239.77.0.126:5146
 东方卫视高清,http://ddns.cyruslee.top:8888/udp/239.77.1.218:5146
