@@ -1,4 +1,4 @@
-$c_start 央视高清$c_end
+$c_start 央视高清 $c_end
 CCTV-01,http://123.52.87.69:52200/hls/1/index.m3u8
 CCTV-02,http://123.52.87.69:52200/hls/2/index.m3u8
 CCTV-03,http://123.52.87.69:52200/hls/3/index.m3u8
@@ -17,7 +17,7 @@ CCTV-14,http://123.52.87.69:52200/hls/14/index.m3u8
 CCTV-15,http://123.52.87.69:52200/hls/15/index.m3u8
 CCTV-16,http://219.139.42.24:8001/hls/16/index.m3u8
 CCTV-17,http://123.52.87.69:52200/hls/16/index.m3u8
-$c_start 卫视高清$c_end
+$c_start 卫视高清 $c_end
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 广东卫视,http://zhancheng.x3322.net:6699/live/1054/index.m3u8
