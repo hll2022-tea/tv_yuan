@@ -1,3 +1,4 @@
+$c_start央卫$c_end
 CCTV-01,http://123.52.87.69:52200/hls/1/index.m3u8
 CCTV-02,http://123.52.87.69:52200/hls/2/index.m3u8
 CCTV-03,http://123.52.87.69:52200/hls/3/index.m3u8
@@ -35,3 +36,4 @@ CCTV-17,http://123.52.87.69:52200/hls/16/index.m3u8
 兵团卫视,http://116.117.105.198:8096/tsfile/live/0115_1.m3u8
 安徽卫视,http://116.117.105.198:8096/tsfile/live/0130_1.m3u8
 东南卫视,http://116.117.105.198:8096/tsfile/live/0
+
