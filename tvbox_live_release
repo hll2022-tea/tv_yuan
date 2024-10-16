@@ -1,33 +1,4 @@
 央视频道,#genre#
-CCTV1,http://ttkx.live:77/a789/mg.php?id=cctv1
-CCTV2,http://ttkx.live:77/a789/mg.php?id=cctv2
-CCTV3,http://ttkx.live:77/a789/mg.php?id=cctv3
-CCTV4,http://ttkx.live:77/a789/mg.php?id=cctv4
-CCTV4欧洲,http://ttkx.live:77/a789/mg.php?id=cctv4o
-CCTV4美洲,http://ttkx.live:77/a789/mg.php?id=cctv4a
-CCTV5,http://ttkx.live:77/a789/mg.php?id=cctv5
-CCTV5+,http://ttkx.live:77/a789/mg.php?id=cctv5p
-CCTV6,http://ttkx.live:77/a789/mg.php?id=cctv6
-CCTV7,http://ttkx.live:77/a789/mg.php?id=cctv7
-CCTV8,http://ttkx.live:77/a789/mg.php?id=cctv8
-CCTV9,http://ttkx.live:77/a789/mg.php?id=cctv9
-CCTV10,http://ttkx.live:77/a789/mg.php?id=cctv10
-CCTV11,http://ttkx.live:77/a789/mg.php?id=cctv11
-CCTV12,http://ttkx.live:77/a789/mg.php?id=cctv12
-CCTV13,http://ttkx.live:77/a789/mg.php?id=cctv13
-CCTV14,http://ttkx.live:77/a789/mg.php?id=cctv14
-CCTV15,http://ttkx.live:77/a789/mg.php?id=cctv15
-CCTV17,http://ttkx.live:77/a789/mg.php?id=cctv17
-中央新影-发现之旅,http://ttkx.live:77/a789/mg.php?id=fxzl
-中央新影-老故事,http://ttkx.live:77/a789/mg.php?id=lgs
-中央新影-中学生,http://ttkx.live:77/a789/mg.php?id=zxs
-CGTN纪录,http://ttkx.live:77/a789/mg.php?id=cgtnjl
-CGTN西语,http://ttkx.live:77/a789/mg.php?id=cgtne
-CGTN阿语,http://ttkx.live:77/a789/mg.php?id=cgtna
-CGTN法语,http://ttkx.live:77/a789/mg.php?id=cgtnf
-CGTN俄语,http://ttkx.live:77/a789/mg.php?id=cgtnr
-CHC家庭影院,http://ttkx.live:77/a789/mg.php?id=chcjt
-CHC动作电影,http://ttkx.live:77/a789/mg.php?id=chcdz
 
 CCTV1,http://117.72.68.25:9930/migu.php?id=cctv1
 CCTV2,http://117.72.68.25:9930/migu.php?id=cctv2
@@ -61,38 +32,23 @@ CGTN俄语,http://117.72.68.25:9930/migu.php?id=cgtnr
 
 
 
-CCTV1,http://123.52.87.69:52200/hls/1/index.m3u8
 CCTV1,http://zhancheng.x3322.net:6699/live/1001/index.m3u8
-CCTV2,http://123.52.87.69:52200/hls/2/index.m3u8
 CCTV2,http://zhancheng.x3322.net:6699/live/1002/index.m3u8
-CCTV3,http://123.52.87.69:52200/hls/3/index.m3u8
 CCTV3,http://zhancheng.x3322.net:6699/live/1003/index.m3u8
-CCTV4,http://123.52.87.69:52200/hls/4/index.m3u8
 CCTV4,http://zhancheng.x3322.net:6699/live/1004/index.m3u8
-CCTV5,http://123.52.87.69:52200/hls/5/index.m3u8
 CCTV5,http://zhancheng.x3322.net:6699/live/1005/index.m3u8
-CCTV5+,http://123.52.87.69:52200/hls/17/index.m3u8
 CCTV5+,http://zhancheng.x3322.net:6699/live/1018/index.m3u8
-CCTV7,http://123.52.87.69:52200/hls/7/index.m3u8
 CCTV7,http://zhancheng.x3322.net:6699/live/1007/index.m3u8
-CCTV8,http://123.52.87.69:52200/hls/8/index.m3u8
 CCTV8,http://zhancheng.x3322.net:6699/live/1008/index.m3u8
-CCTV9,http://123.52.87.69:52200/hls/9/index.m3u8
 CCTV9,http://zhancheng.x3322.net:6699/live/1009/index.m3u8
-CCTV10,http://123.52.87.69:52200/hls/10/index.m3u8
 CCTV10,http://zhancheng.x3322.net:6699/live/1010/index.m3u8
-CCTV11,http://123.52.87.69:52200/hls/11/index.m3u8
 CCTV11,http://zhancheng.x3322.net:6699/live/1011/index.m3u8
-CCTV12,http://123.52.87.69:52200/hls/12/index.m3u8
 CCTV12,http://zhancheng.x3322.net:6699/live/1012/index.m3u8
 CCTV13,http://zhancheng.x3322.net:6699/live/1013/index.m3u8
-CCTV14,http://123.52.87.69:52200/hls/14/index.m3u8
 CCTV14,http://zhancheng.x3322.net:6699/live/1014/index.m3u8
-CCTV15,http://123.52.87.69:52200/hls/15/index.m3u8
 CCTV15,http://zhancheng.x3322.net:6699/live/1015/index.m3u8
 CCTV16,http://219.139.42.24:8001/hls/16/index.m3u8
 CCTV16,http://zhancheng.x3322.net:6699/live/1016/index.m3u8
-CCTV17,http://123.52.87.69:52200/hls/16/index.m3u8
 CCTV17,http://zhancheng.x3322.net:6699/live/1017/index.m3u8
 CCTV4欧洲,http://221.221.153.193:8888/rtp/239.3.1.213:4220
 CCTV4美洲,http://221.221.153.193:8888/rtp/239.3.1.214:4220
@@ -132,7 +88,6 @@ CCTV5,http://tvbox6.icu/tv/migu.php?id=cctv5
 CCTV5+,http://tvbox6.icu/tv/migu.php?id=cctv5p
 CCTV6,http://tvbox6.icu/tv/migu.php?id=cctv6
 CCTV7,http://tvbox6.icu/tv/migu.php?id=cctv7
-CCTV8,http://tvbox6.icu/tv/migu.php?id=cctv8
 CCTV9,http://tvbox6.icu/tv/migu.php?id=cctv9
 CCTV10,http://tvbox6.icu/tv/migu.php?id=cctv10
 CCTV11,http://tvbox6.icu/tv/migu.php?id=cctv11
@@ -200,21 +155,18 @@ CCTV4,https://stream1.freetv.fun/a722b1d2e56f302d937c1860fb90c5fa0f5cdc3154486de
 CCTV4,http://112.6.165.112:9901/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV4,http://enlen.vip:4022/rtp/239.200.200.128:8652
 
-CCTV5,http://113.195.4.227:9901/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV5,http://119.163.199.98:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://123.113.236.69:8012/rtp/239.3.1.108:8001
 CCTV5,http://58.48.37.158:1111/tsfile/live/0005_1.m3u8
 
 CCTV5+,http://zy.otioi.cn/live/migu.php?token=4zfvOqMj&id=cctv5p
 CCTV5+,http://1.30.178.49:9901/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV5+,http://220.170.242.246:9901/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV5+,http://112.6.165.112:9901/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV5+,http://119.163.199.98:9901/tsfile/live/0016_2.m3u8
 
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 CCTV6,http://112.123.206.32:808/hls/7/index.m3u8
-CCTV6,http://113.195.4.227:9901/tsfile/live/0006_1.m3u8?key=txiptv
 
 CCTV7,http://ycsj.aguihome.com:4022/rtp/233.50.201.120:5140
 CCTV7,http://123.166.61.70:8003/hls/42/index.m3u8
@@ -224,7 +176,6 @@ CCTV8,http://61.163.181.78:9901/tsfile/live/0008_1.m3u8
 CCTV8,http://61.157.139.15:9901/tsfile/live/2378_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV9,https://stream1.freetv.fun/6bcbb01fda06ee279885e8edf12825738261ae846dc9d2d3f6b06173609e8ae9.m3u8
-CCTV9,http://27.10.134.196:8003/rtp/225.0.4.131:7980
 CCTV9,http://112.6.165.112:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV9,http://222.134.245.16:9901/tsfile/live/0009_1.m3u8?key=txiptv
 
@@ -237,11 +188,9 @@ CCTV11,http://222.134.245.16:9901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV11,http://123.166.61.70:8003/hls/43/index.m3u8
 CCTV11,http://61.163.181.78:9901/tsfile/live/0011_1.m3u8
 CCTV11,http://58.48.37.158:1111/tsfile/live/0011_1.m3u8
-CCTV11,http://27.10.134.196:8001/rtp/225.0.4.218:7980
 CCTV11,http://home.yulei.online:9999/rtp/226.0.2.28:8136
 CCTV11,http://ycsj.aguihome.com:4022/rtp/233.50.201.11:5140
 
-CCTV12,http://111.196.184.130:5555/rtp/239.3.1.64:8124
 CCTV12,http://ycsj.aguihome.com:4022/rtp/233.50.201.123:5140
 CCTV12,http://61.163.181.78:9901/tsfile/live/0012_1.m3u8
 CCTV12,http://112.6.165.112:9901/tsfile/live/0012_1.m3u8?key=txiptv
@@ -258,28 +207,21 @@ CCTV14,http://112.6.165.112:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15,http://117.72.68.25:9930/migu.php?id=cctv15
 CCTV15,http://tvbox6.com/tv/bfgd.php?id=133
 
-CCTV16,http://111.196.184.130:5555/rtp/239.3.1.184:8001
 CCTV16,http://123.166.61.70:8003/hls/16/index.m3u8
-CCTV16,http://113.195.4.227:9901/tsfile/live/1089_1.m3u8?key=txiptv
 
-CCTV17,http://origin.lean.org.cn:4000/udp/239.45.3.52:5140
 CCTV17,http://123.113.236.69:8012/rtp/239.3.1.151:8144
 CCTV17,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.151:8144
 
 CCTV兵器科技,http://www.lizhinas.top:8688/rtp/239.252.219.98:5140
 CCTV兵器科技,http://mryx.fun:1025/udp/239.11.0.57:1025
 CCTV第一剧场,http://www.lizhinas.top:8688/rtp/239.252.219.86:5140
-CCTV第一剧场,http://113.195.4.227:9901/tsfile/live/1028_1.m3u8?key=txiptv
 CCTV第一剧场,http://mryx.fun:1025/udp/239.11.0.67:1025
 CCTV风云剧场,http://www.lizhinas.top:8688/rtp/239.252.219.89:5140
-CCTV风云剧场,http://113.195.4.227:9901/tsfile/live/1085_1.m3u8?key=txiptv
-CCTV风云剧场,http://113.195.4.227:9901/tsfile/live/1037_1.m3u8?key=txiptv
 CCTV风云剧场,http://mryx.fun:1025/udp/239.11.0.65:1025
 CCTV怀旧剧场,http://www.lizhinas.top:8688/rtp/239.252.219.90:5140
 CCTV怀旧剧场,http://mryx.fun:1025/udp/239.11.0.64:1025
 CCTV风云音乐,http://www.lizhinas.top:8688/rtp/239.252.219.87:5140
 CCTV风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140
-CCTV风云足球,http://113.195.4.227:9901/tsfile/live/1049_1.m3u8?key=txiptv
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 CCTV央视台球,http://www.lizhinas.top:8688/rtp/239.252.219.80:5140
 CCTV高尔夫网球,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140
@@ -289,7 +231,6 @@ CCTV世界地理,http://mryx.fun:1025/udp/239.11.0.63:1025
 CCTV文化精品,http://www.lizhinas.top:8688/rtp/239.252.219.81:5140
 CCTV文化精品,http://mryx.fun:1025/udp/239.11.0.66:1025
 CCTV女性时尚,http://www.lizhinas.top:8688/rtp/239.252.219.94:5140
-CCTV女性时尚,http://113.195.4.227:9901/tsfile/live/1054_1.m3u8?key=txiptv
 CCTV电视指南,http://www.lizhinas.top:8688/rtp/239.252.219.97:5140
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
@@ -325,122 +266,25 @@ CGTN英语,http://182.104.192.98:8180/TV00000000000000000041@HHZT
 影迷电影,http://117.114.153.18:8180/TV00000000000000000094@HHZT
 
 
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$可回看
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$可回看
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$可回看
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$可回看
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$可回看
-CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$可回看
-CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$可回看
-CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$可回看
-CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$可回看
-CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$可回看
-CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$可回看
-CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$可回看
-CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$可回看
-CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$可回看
-CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$可回看
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$可回看
-CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$可回看
-CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$可回看
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$可回看
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$可回看
-CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$可回看
-CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$可回看
-CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$可回看
-CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$可回看
-CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$可回看
-CCTV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8$可回看
-CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$可回看
-CCTV5+,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$可回看
-CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8$可回看
-CCTV7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8$可回看
-CCTV8,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$可回看
-CCTV9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8$可回看
-CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8$可回看
-CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8$可回看
-CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8$可回看
-CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8$可回看
-CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8$可回看
-CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8$可回看
-CCTV16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$可回看
-CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$可回看
 卫视咪咕,#genre#
 东方卫视咪咕,http://117.72.68.25:9930/migu.php?id=dfws
 吉林卫视咪咕,http://117.72.68.25:9930/migu.php?id=jlws
 青海卫视咪咕,http://117.72.68.25:9930/migu.php?id=qhws
 陕西卫视咪咕,http://117.72.68.25:9930/migu.php?id=sxws
 湖北卫视咪咕,http://117.72.68.25:9930/migu.php?id=hubws
-江西卫视咪咕,http://117.72.68.25:9930/migu.php?id=jxws
 江苏卫视咪咕,http://117.72.68.25:9930/migu.php?id=jsws
 广东卫视咪咕,http://117.72.68.25:9930/migu.php?id=gdws
 湾区卫视咪咕,http://117.72.68.25:9930/migu.php?id=dwqws
 体育频道,#genre#
-CCTV-5体育,http://222.89.16.225:808/hls/5/index.m3u8
-CCTV5 体育赛事,http://110.72.80.102:8181/tsfile/live/0016_1.m3u8
-纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
-CBA体育,http://live-cmvideo.cmread.com:80/migu/lunbo/cba/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=261360ecdd41429ba089515be68c33d9
-咪咕体育,http://live-cmvideo.cmread.com:80/wd_r2/virtuallive/tysy201903/150/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d71afdb4433cfb1ced90779b543d1dee
-足球频道,http://live-cmvideo.cmread.com:80/migu/lunbo/eufootball/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=da834f97e3c8832f6fd8f2be9ba16464
-足球联赛,http://live-cmvideo.cmread.com:80/migu/lunbo/wudaliansai/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=37390fe8508db105ef85c897db9015f6
-BRTV体育休闲[超清],http://123.113.248.110:8888/rtp/239.3.1.243:8000
-BRTV体育休闲[超清],http://221.217.4.51:1314/rtp/239.3.1.243:8000
-BRTV体育休闲[超清],http://123.122.162.250:19999/rtp/239.3.1.243:8000
-广东体育,http://116.21.123.52:4433/tsfile/live/0142_1.m3u8
-辽宁体育,http://rt4.orangevip.top:8999/rtp/232.0.0.164:1234
-辽宁体育,http://123.245.64.65:4040/udp/239.33.4.237:22370
-辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
-辽宁体育,http://59.44.192.82:65000/hls/24/index.m3u8
-辽宁体育,http://59.44.192.22:65000/hls/24/index.m3u8
-山东体育,http://182.38.178.100:4000/udp/239.21.1.58:5002
 
 咪咕体育,#genre#
-咪咕体育46,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-咪咕体育47,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
-咪咕体育48,http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
-咪咕体育49,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
-咪咕体育50,http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
-咪咕体育51,http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
-咪咕体育52,http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
-咪咕体育53,http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
-咪咕体育54,http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
-咪咕体育55,http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
-咪咕体育57,http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
-咪咕体育58,http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
-咪咕体育59,http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
-咪咕体育61,http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
-咪咕体育61,http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
-咪咕体育62,http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
-咪咕体育63,http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
-咪咕体育64,http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
-咪咕体育65,http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
-咪咕体育66,http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
-咪咕体育67,http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
-咪咕体育68,http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
-咪咕体育69,http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
-咪咕体育70,http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
-咪咕体育71,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
-咪咕体育72,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 
 球世界篮球视频,#genre#
-丹佛掘金 VS 明尼苏达森林狼,https://record-1322123569.cos.accelerate.myqcloud.com/05-20/622705/UUpTbkdTQVpTQ1xpTVtDUVdCW2hEVEkbFAMBcRwPFQ4JFxpxFw9JBwgGDGVFVkJdUEZabURRSVpWQV9uQ1ZFW1FTWGxDWERZVg==/2024-05-20-08-00-01_eof.m3u8
-纽约尼克斯 VS 印第安纳步行者,https://record-1322123569.cos.accelerate.myqcloud.com/05-20/5008043/UUpTbkdTQVpTQ1xpTVtDUVRAWWdEVUBREQUaN1oJHQ0EGA4sWgIdUQ0ZHzpOUERaV0FdaERRQ1FQR1hpRVdCX1FASm5HVkpcU0c=/2024-05-20-03-30-01_eof.m3u8
-达拉斯独行侠 VS 俄克拉荷马城雷霆,https://record-1322123569.cos.accelerate.myqcloud.com/05-19/5006533/UUpTbkdTQVpTQ1xpTVtDUVRAWWlBUkBREQUaN1oJHQ0EGA4sWgIdUQ0ZHzpOUERaV0BeaUxRQ1FQR1hpRFhCWVFASm5HVkpcU0c=/2024-05-19-08-00-01_eof.m3u8
-印第安纳步行者 VS 纽约尼克斯,https://record-1322123569.cos.accelerate.myqcloud.com/05-18/622632/UUpTbkdTQVpTQ1xpTVtDUVdCW2lHU0kbFAMBcRwPFQ4JFxpxFw9JBwgGDGVFVkJeWElbbURRSVpWQV9vRFdFW1FTWGxDWERZVg==/2024-05-18-08-30-02_eof.m3u8
 
 球世界足球视频,#genre#
-曼彻斯特城 VS 西汉姆联,https://record-1322123569.cos.accelerate.myqcloud.com/05-19/5007311/UUpTbkdTQVpTQ1xpTVtDUVRAWWhHUEJREQUaN1oJHQ0EGA4sWgIdUQ0ZHzpOUERaV0Fab0xRQ1FQR1hpRVVGWVFASm5HVkpcU0c=/2024-05-19-23-00-01_eof.m3u8
-阿森纳 VS 埃弗顿,https://record-1322123569.cos.accelerate.myqcloud.com/05-19/622649/UUpTbkdTQVpTQ1xpTVtDUVdCW2lAWEkbFAMBcRwPFQ4JFxpxFw9JBwgGDGVFVkJdUENZZ0RRSVpWQV9uQFRBW1FTWGxDWERZVg==/2024-05-19-23-00-03_eof.m3u8
-霍芬海姆 VS 拜仁慕尼黑,https://record-1322123569.cos.accelerate.myqcloud.com/05-18/5007925/UUpTbkdTQVpTQ1xpTVtDUVRAWWhNU0ZREQUaN1oJHQ0EGA4sWgIdUQ0ZHzpOUERaV0BaZkRRQ1FQR1hpRFRAX1FASm5HVkpcU0c=/2024-05-18-21-30-02_eof.m3u8
-青岛西海岸 VS 上海海港,https://record-1322123569.cos.accelerate.myqcloud.com/05-18/622649/UUpTbkdTQVpTQ1xpTVtDUVdCW2lAWEkbFAMBcRwPFQ4JFxpxFw9JBwgGDGVFVkJdUUNbbkRRSVpWQV9vQFdGW1FTWGxDWERZVg==/2024-05-18-19-35-01_eof.m3u8
-利雅得胜利VS利雅得新月,https://record-1322123569.cos.accelerate.myqcloud.com/05-18/622697/UUpTbkdTQVpTQ1xpTVtDUVdCW2lNVkkbFAMBcRwPFQ4JFxpxFw9JBwgGDGVFVkJeWEZRZ0RRSVpWQVxmTFJBW1FTWGxDWERZVg==/2024-05-18-02-00-01_eof.m3u8
 
 球迷网-NBA,#genre#
-05-20 08:00NBA明尼苏达森林狼 VS 丹佛掘金,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/f048e6be1397757888234791835/playlist.m3u8
-05-20 03:30NBA印第安纳步行者 VS 纽约尼克斯,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/f049731e1397757888234792834/playlist.m3u8
-05-19 08:00NBA俄克拉荷马城雷霆 VS 达拉斯独行侠,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/1f4bfc1b1397757888221876355/playlist.m3u8
-05-18 08:30NBA纽约尼克斯 VS 印第安纳步行者,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/1f4c91401397757888221877575/playlist.m3u8
 05-17 08:30NBA丹佛掘金 VS 明尼苏达森林狼,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/417d67251253642697122871626/playlist.f3.m3u8
 05-16 09:30NBA达拉斯独行侠 VS 俄克拉荷马城雷霆,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/9036432d1253642697076275376/playlist.f3.m3u8
 05-16 07:00NBA克利夫兰骑士 VS 波士顿凯尔特人,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/e3aa840d1253642697060817597/playlist.f3.m3u8
@@ -450,10 +294,8 @@ BRTV体育休闲[超清],http://123.122.162.250:19999/rtp/239.3.1.243:8000
 05-19 23:00英超曼彻斯特城 VS 西汉姆联,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/dcf4d9641253642697274180273/playlist.f3.m3u8
 05-19 23:00英超卢顿 VS 富勒姆,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/fedcb7211253642697271511644/playlist.f3.m3u8
 05-19 23:00英超利物浦 VS 狼队,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/42f19e6a1253642697272176573/playlist.f3.m3u8
-05-19 23:00英超水晶宫 VS 阿斯顿维拉,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/b1ca26a71253642695769218231/playlist.m3u8
 05-19 23:00英超切尔西 VS 伯恩茅斯,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/62166c8a1253642697279321817/playlist.f3.m3u8
 05-19 23:00英超伯恩利 VS 诺丁汉森林,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/a009b1ec1253642697273846642/playlist.f3.m3u8
 05-19 23:00英超布莱顿 VS 曼彻斯特联,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/41eb8af91253642697265321202/playlist.f3.m3u8
 05-19 23:00英超布伦特福德 VS 纽卡斯尔联,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/c39cd2e81253642697277143284/playlist.f3.m3u8
 05-19 23:00英超阿森纳 VS 埃弗顿,https://1306281965.vod2.myqcloud.com/56b7c40bvodcq1306281965/da57ebc61253642697274041648/playlist.f3.m3u8
-
