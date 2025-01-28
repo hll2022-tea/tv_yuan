@@ -1,5 +1,5 @@
 🕘️release,#genre#
-20250123,http://112.46.85.60:8009/hls/501/index.m3u8
+20250128,http://112.46.85.60:8009/hls/501/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://112.46.85.60:8009/hls/501/index.m3u8
@@ -186,13 +186,7 @@ CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
 CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
-💰央视付费频道,#genre#
-央视台球,http://livetv.wqwqwq.sbs/rptv/G_TAIQIU-CQ.m3u8?license=gitv
-第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
-风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-风云足球,http://183.11.239.36:808/hls/133/index.m3u8
-世界地理,http://livetv.wqwqwq.sbs/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
+
 📡卫视频道,#genre#
 广东卫视,http://120.238.94.10:9901/tsfile/live/1008_1.m3u8
 广东卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
