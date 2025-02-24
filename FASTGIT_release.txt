@@ -71,45 +71,75 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
- {
-			"name": "肥羊本地直播",
-			"type": 0,
-			"playerType": 2,
-			"url": "http://127.0.0.1:35456/tv.m3u",
-			"ua": "okhttp/4.1.0",
-			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-			"logo": "https://gongdian.top/logo/tv/{name}.png"
-		},
+  {
+        "name": "itvlist",
+		"boot":true,
+        "type": 0,
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    
+        
+    {
+        "name": "live源",
+		"boot":true,
+        "type": 0,
+        "url": "http://175.178.251.183:6689/live.m3u",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }                
+,
+	    {
+        "name": "优质源",
+		"boot":true,
+        "type": 0,
+        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/chuzjie/wuihui/refs/heads/main/wuhui/yhjf.m3u",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+        "name": "君赢",
+		"boot":true,
+        "type": 0,
+        "url": "https://5288.kstore.space/z.bmp",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+        "name": "电视家6.0 优",
+		"boot":true,
+        "type": 0,
+        "url": "http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+        "name": "探探",
+		"boot":true,
+        "type": 0,
+        "url": "http://www.lyyytv.cn/yt/zhibo/1.txt",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 
-     {
-			"name": "宫殿肥羊直播",
-			"type": 0,
-			"playerType": 2,
-			"url": "https://gongdian.top/tvbox/okpg/feiyang.txt",
-			"ua": "okhttp/4.1.0",
-			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-			"logo": "https://gongdian.top/logo/tv/{name}.png"
-		},
-		{
-			"name": "宫殿V4",
-			"type": 0,
-			"playerType": 2,
-			"url": "https://gongdian.top/tv/txt",
-			"ua": "okhttp/4.1.0",
-			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-			"logo": "https://gongdian.top/logo/tv/{name}.png"
-		},	
-		{
-			"name": "宫殿V6",
-			"type": 0,
-			"playerType": 2,
-			"url": "https://gongdian.top/tv/txt6",
-			"ua": "okhttp/4.1.0",
-			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-			"logo": "https://gongdian.top/logo/tv/{name}.png"
-		},
-		
+{
+        "name": "diy",
+		"boot":true,
+        "type": 0,
+        "url": "https://gitee.com/zyp1690/ww/raw/master/1102.txt",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 
+{
+        "name": "爱尚",
+		"boot":true,
+        "type": 0,
+        "url": "http://211.101.234.24:866/qiyu.php?url=a",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 
 	
     {
