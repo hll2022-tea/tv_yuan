@@ -155,7 +155,7 @@
 	{
       "name": "IPTV-2",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/maitel2020/iptv-self-use@main/iptv.m3u",
+      "url": "https://raw.kkgithub.com/maitel2020/iptv-self-use/main/iptv.m3u",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -182,7 +182,7 @@
 	{
       "name": "IPTV-5-酒店",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
+      "url": "https://raw.kkgithub.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -191,7 +191,7 @@
 	{
       "name": "IPTV-6-组播",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
+      "url": "https://raw.kkgithub.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
