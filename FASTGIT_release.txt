@@ -668,7 +668,7 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/douban.json"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/douban.json"
     },
     {
       "key": "TGDouban",
@@ -677,7 +677,7 @@
       "api": "csp_TGDouban",
       "timeout": 120,
       "ext": {
-        "token": "http://ttkx.cc:55/pg/lib/tokenm.json",
+        "token": "http://ttkx.cc:55/pg/lib/tokentemplate.json",
         "json": "http://ttkx.cc:55/pg/lib/tgsearch.json",
         "keywords": "名称,片名,推荐",
         "tgsearch_url": "http://127.0.0.1:10199",
@@ -702,7 +702,7 @@
       "changeable": 0,
       "timeout": 120,
       "ext": {
-        "token": "http://ttkx.cc:55/pg/lib/tokenm.json",
+        "token": "http://ttkx.cc:55/pg/lib/tokentemplate.json",
         "json": "http://ttkx.cc:55/pg/lib/youtube.json",
         "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
         "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
@@ -722,7 +722,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -744,7 +744,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/pushshare.txt$$$db$$$1",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/pushshare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -760,7 +760,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 120,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$null$$$proxy$$$1",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$null$$$proxy$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -776,7 +776,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/alishare.txt$$$db$$$1",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/alishare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -792,7 +792,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/alishare.ebook.txt$$$db$$$1",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/alishare.ebook.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -808,7 +808,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/quarkshare.txt",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/quarkshare.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -824,7 +824,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 120,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/115share.txt$$$db$$$1",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/115share.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -840,7 +840,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/ucshare.txt$$$db$$$1",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/ucshare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -856,7 +856,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/thundershare.txt",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/thundershare.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -872,7 +872,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/pikpakclass.json$$$http://ttkx.cc:55/pg/lib/pikpakclass.json.txt.gz",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/pikpakclass.json$$$http://ttkx.cc:55/pg/lib/pikpakclass.json.txt.gz",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -888,7 +888,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/sambashare.txt"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/sambashare.txt"
     },
     {
       "key": "FirstAid",
@@ -923,7 +923,7 @@
       "api": "csp_TGYunPanLocal",
       "timeout": 120,
       "ext": {
-        "token": "http://ttkx.cc:55/pg/lib/tokenm.json",
+        "token": "http://ttkx.cc:55/pg/lib/tokentemplate.json",
         "json": "http://ttkx.cc:55/pg/lib/tgsearch.json",
         "keywords": "名称,片名,推荐",
         "tgsearch_url": "http://127.0.0.1:10199",
@@ -944,7 +944,7 @@
       "api": "csp_TGYunPan",
       "timeout": 120,
       "ext": {
-        "token": "http://ttkx.cc:55/pg/lib/tokenm.json",
+        "token": "http://ttkx.cc:55/pg/lib/tokentemplate.json",
         "json": "http://ttkx.cc:55/pg/lib/tgsearch.json",
         "keywords": "名称,片名,推荐",
         "tgsearch_url": "http://127.0.0.1:10199",
@@ -967,7 +967,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://www.gying.net$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/guanying.txt$$$GUANYING"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://www.gying.net$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/guanying.txt$$$GUANYING"
     },
     {
       "key": "FourKFM",
@@ -978,7 +978,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/4kfm.txt$$$4KFM"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://4kfm.com/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/4kfm.txt$$$4KFM"
     },
     {
       "key": "校长影视",
@@ -989,7 +989,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://xzyshd.com$$$proxy$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://xzyshd.com$$$proxy$$$1"
     },
     {
       "key": "Wogg",
@@ -1000,7 +1000,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$WOGG"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$WOGG"
     },
     {
       "key": "yydsys",
@@ -1011,7 +1011,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://tv.yydsys.top/$$$proxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$WNLG"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://tv.yydsys.top/$$$proxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$WNLG"
     },
     {
       "key": "蜡笔网盘",
@@ -1022,7 +1022,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://duopan.fun/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$LABI"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://duopan.fun/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$LABI"
     },
     {
       "key": "Mogg",
@@ -1033,7 +1033,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://www.mogg.top/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$MOGG"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://www.mogg.top/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$MOGG"
     },
     {
       "key": "Xiaomi",
@@ -1044,7 +1044,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://www.mucpan.cc/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$XIAOMI"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://www.mucpan.cc/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$XIAOMI"
     },
     {
       "key": "至臻|网盘",
@@ -1055,7 +1055,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://mihdr.top/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$ZHIZHEN"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://mihdr.top/$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/wogg.json$$$ZHIZHEN"
     },
     {
       "key": "Guazi",
@@ -1077,7 +1077,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://www.hdmoli.pro/$$$proxy$$$1$$$http://ttkx.cc:55/pg/lib/moli.json"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://www.hdmoli.pro/$$$proxy$$$1$$$http://ttkx.cc:55/pg/lib/moli.json"
     },
     {
       "key": "Ppxzy",
@@ -1088,7 +1088,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ppxzy.ink$$$proxy$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ppxzy.ink$$$proxy$$$1"
     },
     {
       "key": "ddys",
@@ -1099,7 +1099,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ddys.pro/$$$proxy$$$1$$$"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ddys.pro/$$$proxy$$$1$$$"
     },
     {
       "key": "美剧迷",
@@ -1110,7 +1110,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 120,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://www.meijumi.net/$$$proxy$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://www.meijumi.net/$$$proxy$$$1"
     },
     {
       "key": "Libvio",
@@ -1121,7 +1121,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://www.libvio.fun/$$$null"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://www.libvio.fun/$$$null"
     },
     {
       "key": "Bt0",
@@ -1132,7 +1132,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$null$$$noproxy$$$1",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$null$$$noproxy$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1147,7 +1147,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$https://gaoqing.la/$$$proxy$$$1"
     },
     {
       "key": "Yinfans",
@@ -1158,7 +1158,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$https://www.yinfans.me/$$$proxy$$$1"
     },
     {
       "key": "团长资源",
@@ -1169,7 +1169,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 120,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$noproxy$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$noproxy$$$1"
     },
     {
       "key": "Hdhive",
@@ -1180,7 +1180,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 120,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://hdhive.online$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/hdhive.txt"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://hdhive.online$$$noproxy$$$1$$$http://ttkx.cc:55/pg/lib/hdhive.txt"
     },
     {
       "key": "Huban",
@@ -1202,7 +1202,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$https://www.xlys01.com/$$$noproxy$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$https://www.xlys01.com/$$$noproxy$$$1"
     },
     {
       "key": "YunPan",
@@ -1210,7 +1210,7 @@
       "type": 3,
       "api": "csp_YunPan",
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$null$$$proxy$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$null$$$proxy$$$1"
     },
     {
       "key": "YingSo",
@@ -1218,7 +1218,7 @@
       "type": 3,
       "api": "csp_YingSo",
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json"
     },
     {
       "key": "混合盘",
@@ -1226,7 +1226,7 @@
       "type": 3,
       "api": "csp_HunHePan",
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1238,7 +1238,7 @@
       "type": 3,
       "api": "csp_EightEight",
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$https://662688.xyz$$$",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$https://662688.xyz$$$",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1253,7 +1253,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$null$$$proxy"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$null$$$proxy"
     },
     {
       "key": "盘友圈",
@@ -1261,7 +1261,7 @@
       "type": 3,
       "api": "csp_Panyq",
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$site$$$proxy"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$site$$$proxy"
     },
     {
       "key": "易搜",
@@ -1269,7 +1269,7 @@
       "type": 3,
       "api": "csp_YiSo",
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/yiso.txt",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/yiso.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1281,7 +1281,7 @@
       "type": 3,
       "api": "csp_MiaoSou",
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1296,7 +1296,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1311,7 +1311,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1326,7 +1326,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$https://www.91panta.cn/$$$null$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1341,7 +1341,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$https://dapanso.com$$$proxy$$$1"
     },
     {
       "key": "PikaSo",
@@ -1352,7 +1352,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$https://www.pikaso.top/$$$null",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$https://www.pikaso.top/$$$null",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1367,7 +1367,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$http://ttkx.cc:55/pg/lib/qianfan.txt$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$https://pan.qianfan.app$$$null$$$http://ttkx.cc:55/pg/lib/qianfan.txt$$$1"
     },
     {
       "key": "YunSo",
@@ -1378,7 +1378,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$https://www.yunso.net$$$null$$$1",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$https://www.yunso.net$$$null$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1393,7 +1393,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$null$$$proxy$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$null$$$proxy$$$1"
     },
     {
       "key": "新6V",
@@ -1403,7 +1403,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
       "key": "NanGua",
@@ -1537,7 +1537,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json$$$http://ttkx.cc:55/pg/lib/4khdr.txt$$$1",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json$$$http://ttkx.cc:55/pg/lib/4khdr.txt$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1549,7 +1549,7 @@
       "type": 3,
       "api": "csp_UpYun",
       "timeout": 30,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json",
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1880,7 +1880,7 @@
       "api": "csp_Push",
       "changeable": 0,
       "timeout": 30,
-      "ext": "http://ttkx.cc:55/pg/lib/tokenm.json"
+      "ext": "http://ttkx.cc:55/pg/lib/tokentemplate.json"
     },
     {
       "key": "應用商店",
