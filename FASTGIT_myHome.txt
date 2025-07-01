@@ -72,15 +72,23 @@
     },
     
         
+   "lives": [
     {
-        "name": "live源",
-		"boot":true,
-        "type": 0,
-        "url": "http://175.178.251.183:6689/live.m3u",
-        "epg": "http://epg.tvcms.top/api/diyp/",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }                
-,
+      "name": "LiSha521.IPTV",
+      "type": 0,
+      "url": "http://lisha521.dynv6.net.fh4u.org/iptv.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "LiSha521.TV",
+      "type": 0,
+      "url": "http://lisha521.dynv6.net.fh4u.org/tv.txt",
+      "playerType": 1
+    },
 	    {
         "name": "优质源",
 		"boot":true,
@@ -89,14 +97,7 @@
         "epg": "http://epg.tvcms.top/api/diyp/",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-        "name": "君赢",
-		"boot":true,
-        "type": 0,
-        "url": "https://5288.kstore.space/z.bmp",
-        "epg": "http://epg.tvcms.top/api/diyp/",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+  
 {
         "name": "电视家6.0 优",
 		"boot":true,
