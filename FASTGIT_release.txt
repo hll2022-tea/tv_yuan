@@ -81,7 +81,7 @@
     },
     
         
-    "lives": [
+  
     {
       "name": "LiSha521.IPTV",
       "type": 0,
@@ -106,22 +106,7 @@
         "epg": "http://epg.tvcms.top/api/diyp/",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-        "name": "君赢",
-		"boot":true,
-        "type": 0,
-        "url": "https://5288.kstore.space/z.bmp",
-        "epg": "http://epg.tvcms.top/api/diyp/",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-{
-        "name": "电视家6.0 优",
-		"boot":true,
-        "type": 0,
-        "url": "http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
-        "epg": "http://epg.tvcms.top/api/diyp/",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+  
 {
         "name": "探探",
 		"boot":true,
