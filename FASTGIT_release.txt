@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.gitmirror.com/hll2022-tea/file/main/pg.jar",
+  "spider": "https://raw.kkgithub.com/hll2022-tea/file/main/pg.jar",
  "warningText": "个人GitHub专享接口",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "logo": "http://php.540734621.xyz/logo/logo.php",
