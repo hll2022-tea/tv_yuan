@@ -5,18 +5,25 @@
   "logo": "http://php.540734621.xyz/logo/logo.php",
   "lives": [
 	{
-				"name": "最强国内直播(合并版)",
-				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u",
-				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-				"catchup": {
-					"type": "append",
-					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-				}
-			},
-
+      "name": "fan1-冰茶",
+      "type": 0,
+      "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+      "timeout": 10,
+      "ua": "bingcha/1.1(mianfeifenxiang)"
+    },
+    {
+      "name": "fan2",
+      "type": 0,
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+    {
+      "name": "范明明（需开启V6网络）",
+      "type": 0,
+      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "playerType": 2
+    },
 	{
       "name": "paste_live",
       "type": 0,
@@ -29,7 +36,7 @@
 {
       "name": "tvbox_live",
       "type": 0,
-      "url": "https://raw.gitmirror.com/hll2022-tea/tv_yuan/main/tvbox_live",
+      "url": "https://raw.kkgithub.com/hll2022-tea/tv_yuan/main/tvbox_live",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -38,7 +45,7 @@
 {
       "name": "tvbox_live_release",
       "type": 0,
-      "url": "https://raw.gitmirror.com/hll2022-tea/tv_yuan/main/tvbox_live_release",
+      "url": "https://raw.kkgithub.com/hll2022-tea/tv_yuan/main/tvbox_live_release",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
