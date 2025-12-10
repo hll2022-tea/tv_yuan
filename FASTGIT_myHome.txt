@@ -19,7 +19,7 @@
 {
       "name": "tvbox_live",
       "type": 0,
-      "url": "https://raw.gitmirror.com/hll2022-tea/tv_yuan/main/tvbox_live",
+      "url": "https://raw.kkgithub.com/hll2022-tea/tv_yuan/main/tvbox_live",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -28,7 +28,7 @@
 {
       "name": "tvbox_live_release",
       "type": 0,
-      "url": "https://raw.gitmirror.com/hll2022-tea/tv_yuan/main/tvbox_live_release",
+      "url": "https://raw.kkgithub.com/hll2022-tea/tv_yuan/main/tvbox_live_release",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -47,6 +47,15 @@
       "name": "gitee",
       "type": 0,
       "url": "https://gitee.com/myfreefile/tl/raw/master/tl",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+      "name": "悠悠电视",
+      "type": 0,
+      "url": "http://8.146.211.219:3000/private/iptv_source.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
