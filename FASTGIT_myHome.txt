@@ -53,15 +53,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 {
-      "name": "悠悠电视",
-      "type": 0,
-      "url": "http://8.146.211.219:3000/private/iptv_source.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-{
       "name": "result源",
       "type": 0,
       "url": "https://raw.kkgithub.com/Guovin/iptv-api/gd/output/result.m3u",
