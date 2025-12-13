@@ -61,7 +61,14 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
- 
+ {
+        "name": "冰茶",
+		"boot":true,
+        "type": 0,
+        "url": "https://fy.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=bingchawusifengxian",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
       {
         "name": "itvlist",
 		"boot":true,
@@ -106,18 +113,6 @@
         "epg": "http://epg.tvcms.top/api/diyp/",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
-
-{
-        "name": "爱尚",
-		"boot":true,
-        "type": 0,
-        "url": "http://211.101.234.24:866/qiyu.php?url=a",
-        "epg": "http://epg.tvcms.top/api/diyp/",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-
-
 	
     {
         "name": "日后IPV6-IPV4",
