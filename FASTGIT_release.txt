@@ -1,6 +1,6 @@
 {
   "spider": "https://raw.kkgithub.com/hll2022-tea/file/main/wex.jar;md5;172c5b6351ce1531deb3821c41a7d9a4",
-   "warningText": "个人GitHub专享接口"
+   "warningText": "个人GitHub专享接口",
   "wallpaper": "https://api.btstu.cn/sjbz/api.php",
   "logo": "http://php.540734621.xyz/logo/logo.php",
   "sites": [
