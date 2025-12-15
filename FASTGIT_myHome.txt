@@ -725,7 +725,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
+{
 "name": "My冰茶",
       "type": 0,
       "playerType": 2,
