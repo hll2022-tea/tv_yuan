@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "Douban",
-      "name": "🐮【My：王二小放牛娃】🐮",
+      "name": 🐮牛转乾坤",
       "type": 3,
       "api": "csp_DoubanGuard",
       "searchable": 0,
