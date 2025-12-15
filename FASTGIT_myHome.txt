@@ -6,7 +6,7 @@
    "sites": [
     {
       "key": "豆豆",
-      "name": "??明月照福缘",
+      "name":万事顺遂",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
