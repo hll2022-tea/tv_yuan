@@ -740,6 +740,14 @@
         "epg": "http://epg.tvcms.top/api/diyp/",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+{
+        "name": "酷9秒播",
+		"boot":true,
+        "type": 0,
+        "url": "http://ku9.fr.to/ku9/1765854536.txt",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
       {
         "name": "itvlist",
 		"boot":true,
