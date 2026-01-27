@@ -810,16 +810,15 @@
       "name": "如意直播",
       "type": 0,
       "playerType": 2,
-      "url": "http://124.71.56.231:5189/app/live.txt",
+      "url": "http://124.71.56.231:5189/app/live.txt"
+      "epg": "http://epg.tvcms.top/api/diyp/",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
-    }
-
-,
+   },
  {
-        "name": "itvlist",
+        "name": "蝴蝶影院直播",
 		"boot":true,
         "type": 0,
-        "url": "https://raw.kkgithub.com/ssili126/tv/main/itvlist.txt",
+        "url": "http://202.189.11.83:7681/asfrgzzA.txt",
         "epg": "http://epg.tvcms.top/api/diyp/",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
