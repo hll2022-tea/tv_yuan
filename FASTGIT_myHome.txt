@@ -24,6 +24,63 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
+      "key": "小苹果专线",
+      "name": "🎈┃如意影视┃专线",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.izhuiju.top/api.php/app/"
+    },
+    {
+      "key": "潮流",
+      "name": "🏜┃潮流影视┃线路1",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "肥猫",
+      "name": "🐼┃肥猫影视┃线路2",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://103.236.61.192:8006|123456789abcdefg"
+    },
+    {
+      "key": "黑猫",
+      "name": "🐼┃黑猫影视┃线路3",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa"
+    },
+    {
+      "key": "csp_SP360",
+      "name": "📺┃官方影视┃线路4",
+      "type": 3,
+      "api": "csp_SP360"
+    },
+    {
+      "key": "备用线路",
+      "name": "🐚┃海螺备用┃线路5",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://124.71.56.231:1015/api.php/app/"
+    },
+    {
+      "key": "豆瓣",
+      "name": "如意影院┃感谢您的使用",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+
+    {
       "key": "YGP",
       "name": "叨观荐影┃速递",
       "type": 3,
@@ -745,6 +802,24 @@
 		"boot":true,
         "type": 0,
         "url": "http://ku9.fr.to/ku9/1765854536.txt",
+        "epg": "http://epg.tvcms.top/api/diyp/",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+ {
+      "name": "如意直播",
+      "type": 0,
+      "playerType": 2,
+      "url": "http://124.71.56.231:5189/app/live.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    }
+
+,
+ {
+        "name": "itvlist",
+		"boot":true,
+        "type": 0,
+        "url": "https://raw.kkgithub.com/ssili126/tv/main/itvlist.txt",
         "epg": "http://epg.tvcms.top/api/diyp/",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
