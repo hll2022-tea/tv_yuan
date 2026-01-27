@@ -727,6 +727,33 @@
       "quickSearch": 0
     }
   ],
+
+ "parses": [
+    {
+      "name": "蓝光解析",
+      "type": 1,
+      "url": "https://api.jiexi.icu/feiku.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+        ]
+      }
+    }
+  ],
+
   "lives": [
     {
       "name": "paste_live",
