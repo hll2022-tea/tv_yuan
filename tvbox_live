@@ -197,9 +197,19 @@ CCTV-3 综艺,http://202.189.11.83:7681/eSSF53r.php?p=gitv&id=G_CCTV-3-HD-265-8M
 CCTV-4 中文国际,http://202.189.11.83:7681/eSSF53r.php?p=gitv&id=G_CCTV-4-HD-265-8M.m3u8
 CCTV-5 体育,http://202.189.11.83:7681/eSSF53r.php?p=gitv&id=G_CCTV-5-HD-265-8M.m3u8
 CCTV-5+ 体育赛事,http://202.189.11.83:7681/eSSF53r.php?p=gitv&id=G_CCTV-5PLUS-HD-265-8M.m3u8
-CCTV-6  音乐,http://202.189.11.83:7681/eSSF53r.php?p=cntv&id=H265-5500k-1080P-cctv15.m3u8
+CCTV-6 电影,http://202.189.11.83:7681/eSSF53r.php?p=gitv&id=G_CCTV-6-HD-265-8M.m3u8
+CCTV-7 国防军事,http://202.189.11.83:7681/eSSF53r.php?p=gitv&id=G_CCTV-7-HD-265-8M.m3u8
+CCTV-8 电视剧,http://202.189.11.83:7681/eSSF53r.php?p=gitv&id=G_CCTV-8-HD-265-8M.m3u8
+CCTV-9 纪录,http://202.189.11.83:7681/eSSF53r.php?p=gitv&id=G_CCTV-9-HD-265-8M.m3u8
+CCTV-10 科教,http://202.189.11.83:7681/eSSF53r.php?p=gitv&id=G_CCTV-10-HD-265-8M.m3u8
+CCTV-11 戏曲,http://202.189.11.83:7681/eSSF53r.php?p=cntv&id=H265-5500k-1080P-cctv11.m3u8
+CCTV-12 社会与法,http://202.189.11.83:7681/eSSF53r.php?p=gitv&id=G_CCTV-12-HD-265-8M.m3u8
+CCTV-13 新闻,http://202.189.11.83:7681/eSSF53r.php?p=gitv&id=G_CCTV-13-HD-265-8M.m3u8
+CCTV-14 少儿,http://202.189.11.83:7681/eSSF53r.php?p=cntv&id=H265-5500k-1080P-cctv14.m3u8
+CCTV-15 音乐,http://202.189.11.83:7681/eSSF53r.php?p=cntv&id=H265-5500k-1080P-cctv15.m3u8
 CCTV-16 奥林匹克,http://202.189.11.83:7681/eSSF53r.php?p=cntv&id=HD-8000k-1080P-cctv16.m3u8
 CCTV-17 农业农村,http://202.189.11.83:7681/eSSF53r.php?p=cntv&id=H265-5500k-1080P-cctv17.m3u8
+
 
 卫视-蝴蝶,#genre#
 北京卫视,http://202.189.11.83:8080/ysp?cnlid=2024052703&livepid=600002309&defn=fhd
