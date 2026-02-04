@@ -845,7 +845,7 @@
         "name": "蝴蝶影院直播",
 		"boot":true,
         "type": 0,
-        "url": "http://202.189.11.83:7681/asfrgzzA.txt",
+        "url": "http://202.189.11.83:7681/zbs.php",
         "epg": "http://epg.tvcms.top/api/diyp/",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
