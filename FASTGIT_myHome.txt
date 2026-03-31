@@ -398,7 +398,7 @@
       "url": "http://154.8.225.238:9991/migu/mg.txt",
       "type": 0,
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
 
     },
     {
@@ -406,7 +406,7 @@
       "url": "http://38.75.136.137:88/api/tvlist.php",
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
      
     },
 	{
